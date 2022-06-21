@@ -1,1 +1,1 @@
-My first step towards becoming a software engineer
+My first step towards becoming a software engineer. I'm a ALX bonafide student.
